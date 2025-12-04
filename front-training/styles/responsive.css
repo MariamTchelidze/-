@@ -1,0 +1,13 @@
+/* -------------------Header Responcive----------------- */
+@media (max-width: 1024px) {
+    .header div nav{
+        display: none;
+    }
+    .header div {
+        width: 80%;
+    }
+    .header div p{
+        width: 100%;
+        font-size: 12px;
+    }
+}
